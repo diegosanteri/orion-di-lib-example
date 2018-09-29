@@ -1,7 +1,7 @@
 {
     "dependencies": [
         {
-            "name": "LibExampleEntryPoint",
+            "name": "OrionDiLibExample",
             "path": "/src/index",
             "dependencies": ["LibService"]
         },
