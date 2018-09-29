@@ -13,7 +13,7 @@
   ],
   "license": "MTI",
   "dependencies": {
-    "orion-dependency-injection": "1.0.0"
+    "orion-dependency-injection": "*"
   },
   "devDependencies": {
     "jest": "^23.6.0"
