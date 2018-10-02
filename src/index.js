@@ -1,5 +1,5 @@
 module.exports = class OrionDiLibExample {
-    constructor(libService) {
+    constructor({libService}) {
         this.libService = libService;
     }
 }
